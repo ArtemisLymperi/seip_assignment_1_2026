@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v7
         with:
           push: true
-          tags: ghcr.io/ArtemisLymperi/echo-api:latest
+          tags: ghcr.io/artemislymperi/echo-api:latest
